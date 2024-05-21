@@ -13,7 +13,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando Análise de como ferramentas de IA, como assistentes de codificação e geradores de código, estão transformando o desenvolvimento de software. Exemplos de ferramentas populares como o GitHub Copilot e o ChatGPT
-[LINK do PDF]()
+[LINK do PDF](https://github.com/JenilsonJunior/lab-natty-or-not.git)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre A evolução da IA desde algoritmos simples até sistemas complexos capazes de aprendizagem profunda. Como isso mudou a paisagem tecnológica e o mercado de trabalho.
